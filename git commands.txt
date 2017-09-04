@@ -8,4 +8,9 @@
 #git checkout HEAD filename	*discards changes in the working directory
 #git reset HEAD filename	*unstages file changes in the staging area
 #git reset SHA			*can be used to reset to a previous commit in commit history
+#git branch			*lists all a Git project's branches
+#git branch branch_name		*creates a new branch
+#git checkout branch_name	*used to switch from one branch to another
+#git merge branch_name		*used to join file changes from one branch to another
+#git branch -D branch_name	*deletes the branch specified
 	
